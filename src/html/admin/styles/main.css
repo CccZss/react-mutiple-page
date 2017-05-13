@@ -1,0 +1,33 @@
+.layout-breadcrumb{
+    padding: 10px 15px 0;
+}
+.layout-content{
+    min-height: 200px;
+    overflow: hidden;
+    background: #e3e3e3;
+}
+.layout-content-main{
+    padding: 10px;
+}
+.layout-copy{
+    width: 100%;
+    text-align: center;
+    padding: 10px 0 20px;
+    color: #9ea7b4;
+}
+.layout-menu-left{
+    background: #464c5b;
+}
+.layout-header{
+    padding: 10px 0;
+    background: #fff;
+    box-shadow: 0 1px 1px rgba(0,0,0,.1);
+    overflow: hidden;
+}
+.layout-ceiling-main{
+    float: right;
+    margin-right: 15px;
+}
+.layout-ceiling-main a{
+    color: #9ba7b5;
+}
