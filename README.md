@@ -1,6 +1,6 @@
 # mutiple-page
 
-> A React project
+> 一个 React 多页面脚手架
 
 ## Build Setup
 
